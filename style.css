@@ -1,0 +1,11 @@
+.a{
+    background-color: aqua;
+}
+#b{
+    background-color:red;
+}
+.container{
+    text-align:center;
+    width: 50%;
+    margin-left: 150px;
+}
